@@ -1,7 +1,6 @@
-
-
+![logo](https://github.com/SACHIN-1PRASAD/SACHIN-1PRASAD/blob/main/Githubbanner.png)
 <h1 align="center">Hi 👋, I'm Sachin Prasad</h1>
-<h3 align="center">A passionate Technology Learner and Explorer from India</h3>
+<h3 align="center">A passionate Technology Learner and Explorer from Bangalore</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/SACHIN-1PRASAD/SACHIN-1PRASAD/assets/146463455/405edaf7-285a-449d-b708-584c2756da7c">
 
